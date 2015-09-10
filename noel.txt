@@ -1,1 +1,17 @@
-lasdjfljdasfksdlfksdlk
+Get updates from remote
+git fetch
+
+Create branch
+git branch mybranch
+
+Switch branch
+git checkout mybranch
+
+Push branch to origin
+git push origin branchname
+
+Check which branch are you
+git branch
+
+Merge branch
+git merge frombranchname

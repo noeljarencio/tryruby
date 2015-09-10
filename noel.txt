@@ -13,5 +13,8 @@ git push origin branchname
 Check which branch are you
 git branch
 
+Check status
+git status
+
 Merge branch
 git merge frombranchname

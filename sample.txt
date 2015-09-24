@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 sample text 1234567890
+=======
+sample text
+
+new sample text
+>>>>>>> 09553b12a23419b686a0bcc9174e9eb664e38705

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 kljsl;kdfjalsjfkl;asjflasjflasjlfd;jask;lfasCyasdfaf
 Cyg
 sample
+=======
+ljlkjasdfj sa234 234234lkjs fdl23239482384o2o3 23423l4j23lk4 234o234o238402939j234lj23l4j234j 82349u2
+3 mple
+>>>>>>> 9dad2f374b4825789c08c8356f382fc1e80056cf
 
 new line sample

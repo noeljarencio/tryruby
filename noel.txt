@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 #sample here
+=======
+asidfasdlfasdf
+
+
+
+
+
+
+>>>>>>> 3496a00873de68fc209d99680c707d69c851e588
 Get updates from remote
 git fetch
 
